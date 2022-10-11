@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[26]:
-
-
 #1
 #def moriintoo(n):
 #    n=int(input())
